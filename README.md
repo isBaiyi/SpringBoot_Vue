@@ -1,2 +1,6 @@
-# SpringBoot_Vue
-使用SpringBoot 结合 Vue 编写的一个用户管理系统小案例
+## SpringBoot 结合 Vue 小案例
+### 技术栈需求
+- SpringBoot
+- BootStrap
+- Vue
+- MyBatis
